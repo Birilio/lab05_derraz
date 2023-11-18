@@ -1,0 +1,1 @@
+cmd_/home/deeplearning/lab05/Others/kernel_modules/4-multi-mod/multi-mod.o := ld -m elf_x86_64 -z max-page-size=0x200000   -r -o /home/deeplearning/lab05/Others/kernel_modules/4-multi-mod/multi-mod.o /home/deeplearning/lab05/Others/kernel_modules/4-multi-mod/mod1.o /home/deeplearning/lab05/Others/kernel_modules/4-multi-mod/mod2.o 

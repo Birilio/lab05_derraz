@@ -1,0 +1,1 @@
+cmd_/home/deeplearning/lab05/modul.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/deeplearning/lab05/modul.ko /home/deeplearning/lab05/modul.o /home/deeplearning/lab05/modul.mod.o ;  true
